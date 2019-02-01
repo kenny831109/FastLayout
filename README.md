@@ -1,3 +1,11 @@
+# Installation
+
+### CocoaPods
+
+```bash
+pod 'FastLayout'
+```
+
 ## Usage
 
 ### Quick Start
